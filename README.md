@@ -11,7 +11,7 @@
   <img src="https://raw.githubusercontent.com/Dhruv-2403/Dhruv-2403/output/github-snake.svg" />
 </p>
 
-# 🧠 About Me
+# About Me
 
 - 🏆 Active Competitive Programmer (Codeforces & LeetCode)
 - ⚡ Strong focus on Data Structures & Algorithms
@@ -21,8 +21,8 @@
 
 
 
-# ⚡ Tech Stack
-
+# Tech Stack
+<div>
 <h2 align="center">💻 Languages</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript" />
@@ -42,24 +42,23 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,prisma,git,github,linux,vscode" />
 </p>
+</div>
 
+# Competitive Programming
 
-
-# 🏆 Competitive Programming
-
-## 🔵 Codeforces
+## Codeforces
 👉 https://codeforces.com/profile/SrDhruv  
 
 ![](https://codeforces-readme-stats.vercel.app/api/card?username=SrDhruv)
 
 
-## 🟠 LeetCode
+## LeetCode
 👉 https://leetcode.com/Dhruv_Sareen  
 
 ![](https://leetcard.jacoblin.cool/Dhruv_Sareen)
 
 
-# 📈 Contribution Activity
+# Contribution Activity
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Dhruv-2403&theme=react-dark)
 
