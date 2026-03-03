@@ -77,9 +77,9 @@
 ---
 
 # 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/Dhruv-2403/Dhruv-2403/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dhruv-2403/Dhruv-2403/output/github-snake.svg" />
+</p>
 ---
 
 <h3 align="center">🔥 Keep Coding. Keep Competing. Keep Building. 🔥</h3>
