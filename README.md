@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Dhruv Sareen</h1>
 <h3 align="center">
-🚀 Competitive Programmer  |  💻 Full Stack Developer
+ Competitive Programmer  |   Full Stack Developer
 </h3>
 
 <p align="center">
