@@ -13,11 +13,11 @@
 
 # About Me
 
-- 🏆 Active Competitive Programmer (Codeforces & LeetCode)
-- ⚡ Strong focus on Data Structures & Algorithms
-- 🧩 Passionate about solving complex algorithmic problems
-- 💻 Building scalable Full Stack applications
-- 🔥 Believe in consistency & disciplined growth
+-  Active Competitive Programmer (Codeforces & LeetCode)
+-  Strong focus on Data Structures & Algorithms
+-  Passionate about solving complex algorithmic problems
+-  Building scalable Full Stack applications
+-  Believe in consistency & disciplined growth
 
 
 
